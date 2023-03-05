@@ -8,7 +8,7 @@
 [![Website](https://img.shields.io/badge/-Portfolio-00c7b7?style=flat&logo=Netlify&logoColor=white)](https://mayurhbhatia.netlify.app/)
 
 
-Welcome to my Github page! I am a Full-stack developer with 3+ years of industry experience. I completed my Master's in Information Systems at Northeastern University. Currently I am working at [HackerRank](https://www.hackerrank.com/) as a Software Engineer.
+Welcome to my Github page! I am a Full-stack developer with 4+ years of industry experience. I completed my Master's in Information Systems at Northeastern University. Currently I am working at [HackerRank](https://www.hackerrank.com/) as a Senior Software Engineer.
 
 
 #### 🌱 Things I am currently working on: 
